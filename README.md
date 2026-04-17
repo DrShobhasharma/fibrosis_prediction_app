@@ -1,4 +1,5 @@
 # 🧠 FAET Tool – AI-Based Advanced Fibrosis Prediction
+🚀 AI-powered clinical decision support tool for early detection of advanced fibrosis using minimal input features.
 
 ## 🚀 Overview
 
