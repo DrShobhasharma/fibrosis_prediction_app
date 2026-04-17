@@ -28,7 +28,7 @@ The system processes inputs and returns:
 
 ## 📸 Screenshot
 
-![App Interface](MASLD app screenshot.png)
+![App Interface](app_interface.png)
 
 ## ⚙️ Methodology
 
