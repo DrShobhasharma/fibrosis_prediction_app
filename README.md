@@ -41,12 +41,27 @@ The system processes inputs and returns:
 
 ## 📈 Results
 
-* Best Model: Extra Trees (FAET)
-* Metrics:
+### 🔹 5-Feature Model (Deployed in App)
 
-  * Accuracy: 84%
-  * AUC: 82%
-  * PPV: 91%
+* Accuracy: 82%
+* AUC: 0.80
+* F1 Score: 0.76
+* NPV: 0.83
+* PPV: 0.79
+
+### 🔹 13-Feature Model (Best Performance)
+
+* Achieved higher PPV and overall performance compared to reduced model
+
+### ⚖️ Design Decision
+
+Although the 13-feature model provided slightly better performance, the 5-feature model was selected for deployment due to:
+
+* Comparable performance across most evaluation metrics
+* Significant reduction in input complexity
+* Improved usability in real-world clinical settings
+
+This trade-off enables a **scalable, cost-effective, and user-friendly AI solution** without substantial loss in predictive performance.
 
 ## 🔬 Key Contributions
 
